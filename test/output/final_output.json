@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 6.0,
+        "text": "今、すぐにエレば、夢が見える。",
+        "translated_text": "Nếu bạn đã hoàn thành ngay bây giờ, bạn sẽ có thể thấy những giấc mơ.",
+        "words": [
+            {
+                "surface": "今、すぐにエレば、夢が見える。",
+                "translation": "",
+                "start_time": 0.0,
+                "end_time": 6.0
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "seek": 0,
+        "start": 6.0,
+        "end": 12.0,
+        "text": "今、勉強すれば、夢が叶う。",
+        "translated_text": "Nếu bạn học bây giờ, ước mơ của bạn sẽ trở thành sự thật.",
+        "words": [
+            {
+                "surface": "今、勉強すれば、夢が叶う。",
+                "translation": "",
+                "start_time": 6.0,
+                "end_time": 12.0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "seek": 0,
+        "start": 12.0,
+        "end": 22.0,
+        "text": "少しのロークト、少しの挑戦で、明るい未来が待っている。",
+        "translated_text": "Với một chút lokt và một thử thách nhỏ, một tương lai tươi sáng đang chờ đợi.",
+        "words": [
+            {
+                "surface": "少しのロークト、少しの挑戦で、明るい未来が待っている。",
+                "translation": "",
+                "start_time": 12.0,
+                "end_time": 22.0
+            }
+        ]
+    }
+]
